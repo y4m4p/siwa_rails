@@ -1,5 +1,5 @@
 # SIWA Rails
-This is a sample application includes a SIWA backend process using Ruby on Rails.
+This is a sample application which includes a SIWA backend process using Ruby on Rails.
 
 ## Dependencies
 ||version|
