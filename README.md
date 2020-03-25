@@ -64,6 +64,5 @@ Usually for most backend application for iOS app clients, the endpoint would ret
 2. If you are concerned that the endpoint is receiving a raw `id_token`, the client and server should have some form of encryption/decryption scheme for that value.
 
 ## Other References
-(Disclaimer: None of these are my work)
 For more informations about how the authorization step works, the following blog post might be useful.  
 https://sarunw.com/posts/sign-in-with-apple-1/
